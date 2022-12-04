@@ -1037,6 +1037,8 @@
     },
     {
       "country": "Reunion",
+      "country_code": "--",
+      "country_flag": "🇫🇷",
       "sms_pricing": 0.13000000000000003,
       "voice_pricing": "Talk to Sales",
       "phone_numbers_pricing": "Download pricing",
