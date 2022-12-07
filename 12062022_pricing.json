@@ -4431,1862 +4431,1862 @@
         "country": "United States",
         "country_code": "US",
         "country_flag": "🇺🇸",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.037,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "India",
         "country_code": "IN",
         "country_flag": "🇮🇳",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Mexico",
         "country_code": "MX",
         "country_flag": "🇲🇽",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Turkey",
         "country_code": "TR",
         "country_flag": "🇹🇷",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Brazil",
         "country_code": "BR",
         "country_flag": "🇧🇷",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.04,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Japan",
         "country_code": "JP",
         "country_flag": "🇯🇵",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "China",
         "country_code": "CN",
         "country_flag": "🇨🇳",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Canada",
         "country_code": "CA",
         "country_flag": "🇨🇦",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Russia",
         "country_code": "RU",
         "country_flag": "🇷🇺",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Indonesia",
         "country_code": "ID",
         "country_flag": "🇮🇩",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "France",
         "country_code": "FR",
         "country_flag": "🇫🇷",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Vietnam",
         "country_code": "VN",
         "country_flag": "🇻🇳",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.37,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Colombia",
         "country_code": "CO",
         "country_flag": "🇨🇴",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Australia",
         "country_code": "AU",
         "country_flag": "🇦🇺",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "United Kingdom",
         "country_code": "GB",
         "country_flag": "🇬🇧",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Spain",
         "country_code": "ES",
         "country_flag": "🇪🇸",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Philippines",
         "country_code": "PH",
         "country_flag": "🇵🇭",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Saudi Arabia",
         "country_code": "SA",
         "country_flag": "🇸🇦",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Germany",
         "country_code": "DE",
         "country_flag": "🇩🇪",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Italy",
         "country_code": "IT",
         "country_flag": "🇮🇹",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "United Arab Emirates",
         "country_code": "AE",
         "country_flag": "🇦🇪",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Puerto Rico",
         "country_code": "PR",
         "country_flag": "🇵🇷",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Iran",
         "country_code": "IR",
         "country_flag": "🇮🇷",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Egypt",
         "country_code": "EG",
         "country_flag": "🇪🇬",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Argentina",
         "country_code": "AR",
         "country_flag": "🇦🇷",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Pakistan",
         "country_code": "PK",
         "country_flag": "🇵🇰",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "South Korea",
         "country_code": "KR",
         "country_flag": "🇰🇷",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Nigeria",
         "country_code": "NG",
         "country_flag": "🇳🇬",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Thailand",
         "country_code": "TH",
         "country_flag": "🇹🇭",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Iraq",
         "country_code": "IQ",
         "country_flag": "🇮🇶",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Bangladesh",
         "country_code": "BD",
         "country_flag": "🇧🇩",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Peru",
         "country_code": "PE",
         "country_flag": "🇵🇪",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Netherlands",
         "country_code": "NL",
         "country_flag": "🇳🇱",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "South Africa",
         "country_code": "ZA",
         "country_flag": "🇿🇦",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Malaysia",
         "country_code": "MY",
         "country_flag": "🇲🇾",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Ukraine",
         "country_code": "UA",
         "country_flag": "🇺🇦",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Poland",
         "country_code": "PL",
         "country_flag": "🇵🇱",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Ecuador",
         "country_code": "EC",
         "country_flag": "🇪🇨",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Chile",
         "country_code": "CL",
         "country_flag": "🇨🇱",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Nepal",
         "country_code": "NP",
         "country_flag": "🇳🇵",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Kenya",
         "country_code": "KE",
         "country_flag": "🇰🇪",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Belgium",
         "country_code": "BE",
         "country_flag": "🇧🇪",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Morocco",
         "country_code": "MA",
         "country_flag": "🇲🇦",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Kuwait",
         "country_code": "KW",
         "country_flag": "🇰🇼",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Singapore",
         "country_code": "SG",
         "country_flag": "🇸🇬",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Taiwan",
         "country_code": "TW",
         "country_flag": "🇹🇼",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Kazakhstan",
         "country_code": "KZ",
         "country_flag": "🇰🇿",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Israel",
         "country_code": "IL",
         "country_flag": "🇮🇱",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Austria",
         "country_code": "AT",
         "country_flag": "🇦🇹",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Venezuela",
         "country_code": "VE",
         "country_flag": "🇻🇪",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Algeria",
         "country_code": "DZ",
         "country_flag": "🇩🇿",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Romania",
         "country_code": "RO",
         "country_flag": "🇷🇴",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Sweden",
         "country_code": "SE",
         "country_flag": "🇸🇪",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Ireland",
         "country_code": "IE",
         "country_flag": "🇮🇪",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "New Zealand",
         "country_code": "NZ",
         "country_flag": "🇳🇿",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Costa Rica",
         "country_code": "CR",
         "country_flag": "🇨🇷",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Portugal",
         "country_code": "PT",
         "country_flag": "🇵🇹",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Hong Kong",
         "country_code": "HK",
         "country_flag": "🇭🇰",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Dominican Republic",
         "country_code": "DO",
         "country_flag": "🇩🇴",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Denmark",
         "country_code": "DK",
         "country_flag": "🇩🇰",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Switzerland",
         "country_code": "CH",
         "country_flag": "🇨🇭",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Kyrgyzstan",
         "country_code": "KG",
         "country_flag": "🇰🇬",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Sri Lanka",
         "country_code": "LK",
         "country_flag": "🇱🇰",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Czech Republic",
         "country_code": "CZ",
         "country_flag": "🇨🇿",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Oman",
         "country_code": "OM",
         "country_flag": "🇴🇲",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Azerbaijan",
         "country_code": "AZ",
         "country_flag": "🇦🇿",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Bolivia",
         "country_code": "BO",
         "country_flag": "🇧🇴",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Norway",
         "country_code": "NO",
         "country_flag": "🇳🇴",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Somalia",
         "country_code": "SO",
         "country_flag": "🇸🇴",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Cambodia",
         "country_code": "KH",
         "country_flag": "🇰🇭",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Cote d'Ivoire",
         "country_code": "CI",
         "country_flag": "🇨🇮",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Myanmar",
         "country_code": "MM",
         "country_flag": "🇲🇲",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Sudan",
         "country_code": "SD",
         "country_flag": "🇸🇩",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Finland",
         "country_code": "FI",
         "country_flag": "🇫🇮",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Jordan",
         "country_code": "JO",
         "country_flag": "🇯🇴",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Uzbekistan",
         "country_code": "UZ",
         "country_flag": "🇺🇿",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Ghana",
         "country_code": "GH",
         "country_flag": "🇬🇭",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Greece",
         "country_code": "GR",
         "country_flag": "🇬🇷",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Qatar",
         "country_code": "QA",
         "country_flag": "🇶🇦",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Syria",
         "country_code": "SY",
         "country_flag": "🇸🇾",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Mongolia",
         "country_code": "MN",
         "country_flag": "🇲🇳",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Hungary",
         "country_code": "HU",
         "country_flag": "🇭🇺",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Latvia",
         "country_code": "LV",
         "country_flag": "🇱🇻",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Guatemala",
         "country_code": "GT",
         "country_flag": "🇬🇹",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Panama",
         "country_code": "PA",
         "country_flag": "🇵🇦",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Serbia",
         "country_code": "RS",
         "country_flag": "🇷🇸",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Cameroon",
         "country_code": "CM",
         "country_flag": "🇨🇲",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Democratic Republic of the Congo",
         "country_code": "CD",
         "country_flag": "🇨🇩",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Bulgaria",
         "country_code": "BG",
         "country_flag": "🇧🇬",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Senegal",
         "country_code": "SN",
         "country_flag": "🇸🇳",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Yemen",
         "country_code": "YE",
         "country_flag": "🇾🇪",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Mozambique",
         "country_code": "MZ",
         "country_flag": "🇲🇿",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Benin",
         "country_code": "BJ",
         "country_flag": "🇧🇯",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Libya",
         "country_code": "LY",
         "country_flag": "🇱🇾",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Uruguay",
         "country_code": "UY",
         "country_flag": "🇺🇾",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Lebanon",
         "country_code": "LB",
         "country_flag": "🇱🇧",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Belarus",
         "country_code": "BY",
         "country_flag": "🇧🇾",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Honduras",
         "country_code": "HN",
         "country_flag": "🇭🇳",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Uganda",
         "country_code": "UG",
         "country_flag": "🇺🇬",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Ethiopia",
         "country_code": "ET",
         "country_flag": "🇪🇹",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "El Salvador",
         "country_code": "SV",
         "country_flag": "🇸🇻",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Bahrain",
         "country_code": "BH",
         "country_flag": "🇧🇭",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Slovakia",
         "country_code": "SK",
         "country_flag": "🇸🇰",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Cuba",
         "country_code": "CU",
         "country_flag": "🇨🇺",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Luxembourg",
         "country_code": "LU",
         "country_flag": "🇱🇺",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Georgia",
         "country_code": "GE",
         "country_flag": "🇬🇪",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Afghanistan",
         "country_code": "AF",
         "country_flag": "🇦🇫",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Croatia",
         "country_code": "HR",
         "country_flag": "🇭🇷",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "East Timor",
         "country_code": "TL",
         "country_flag": "🇹🇱",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Lithuania",
         "country_code": "LT",
         "country_flag": "🇱🇹",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Jamaica",
         "country_code": "JM",
         "country_flag": "🇯🇲",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Tanzania",
         "country_code": "TZ",
         "country_flag": "🇹🇿",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Tunisia",
         "country_code": "TN",
         "country_flag": "🇹🇳",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Nicaragua",
         "country_code": "NI",
         "country_flag": "🇳🇮",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Zimbabwe",
         "country_code": "ZW",
         "country_flag": "🇿🇼",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Reunion",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Zambia",
         "country_code": "ZM",
         "country_flag": "🇿🇲",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Estonia",
         "country_code": "EE",
         "country_flag": "🇪🇪",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Madagascar",
         "country_code": "MG",
         "country_flag": "🇲🇬",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Trinidad and Tobago",
         "country_code": "TT",
         "country_flag": "🇹🇹",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Angola",
         "country_code": "AO",
         "country_flag": "🇦🇴",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Albania",
         "country_code": "AL",
         "country_flag": "🇦🇱",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Paraguay",
         "country_code": "PY",
         "country_flag": "🇵🇾",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Lao",
         "country_code": "LA",
         "country_flag": "🇱🇦",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Armenia",
         "country_code": "AM",
         "country_flag": "🇦🇲",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Eritrea",
         "country_code": "ER",
         "country_flag": "🇪🇷",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Moldova",
         "country_code": "MD",
         "country_flag": "🇲🇩",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Haiti",
         "country_code": "HT",
         "country_flag": "🇭🇹",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Slovenia",
         "country_code": "SI",
         "country_flag": "🇸🇮",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Mali",
         "country_code": "ML",
         "country_flag": "🇲🇱",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Burkina Faso",
         "country_code": "BF",
         "country_flag": "🇧🇫",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Mauritius",
         "country_code": "MU",
         "country_flag": "🇲🇺",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Malta",
         "country_code": "MT",
         "country_flag": "🇲🇹",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Bosnia and Herzegovina",
         "country_code": "BA",
         "country_flag": "🇧🇦",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Guadeloupe",
         "country_code": "GP",
         "country_flag": "🇬🇵",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Tajikistan",
         "country_code": "TJ",
         "country_flag": "🇹🇯",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Kosovo",
         "country_code": "XK",
         "country_flag": "🇽🇰",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Bahamas",
         "country_code": "BS",
         "country_flag": "🇧🇸",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Botswana",
         "country_code": "BW",
         "country_flag": "🇧🇼",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Turkmenistan",
         "country_code": "TM",
         "country_flag": "🇹🇲",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Cyprus",
         "country_code": "CY",
         "country_flag": "🇨🇾",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Togo",
         "country_code": "TG",
         "country_flag": "🇹🇬",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Macedonia",
         "country_code": "MK",
         "country_flag": "🇲🇰",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Macao",
         "country_code": "MO",
         "country_flag": "🇲🇴",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "French Guiana",
         "country_code": "GF",
         "country_flag": "🇬🇫",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Namibia",
         "country_code": "NA",
         "country_flag": "🇳🇦",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Gabon",
         "country_code": "GA",
         "country_flag": "🇬🇦",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Palestine",
         "country_code": "PS",
         "country_flag": "🇵🇸",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Mauritania",
         "country_code": "MR",
         "country_flag": "🇲🇷",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Guyana",
         "country_code": "GY",
         "country_flag": "🇬🇾",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Rwanda",
         "country_code": "RW",
         "country_flag": "🇷🇼",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Niger",
         "country_code": "NE",
         "country_flag": "🇳🇪",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Maldives",
         "country_code": "MV",
         "country_flag": "🇲🇻",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Guinea",
         "country_code": "GN",
         "country_flag": "🇬🇳",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Martinique",
         "country_code": "MQ",
         "country_flag": "🇲🇶",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Monaco",
         "country_code": "MC",
         "country_flag": "🇲🇨",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Sierra Leone",
         "country_code": "SL",
         "country_flag": "🇸🇱",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Barbados",
         "country_code": "BB",
         "country_flag": "🇧🇧",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Guam",
         "country_code": "GU",
         "country_flag": "🇬🇺",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "New Caledonia",
         "country_code": "NC",
         "country_flag": "🇳🇨",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Malawi",
         "country_code": "MW",
         "country_flag": "🇲🇼",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Congo",
         "country_code": "CD",
         "country_flag": "🇨🇩",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Iceland",
         "country_code": "IS",
         "country_flag": "🇮🇸",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Papua New Guinea",
         "country_code": "PG",
         "country_flag": "🇵🇬",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "U.S. Virgin Islands",
         "country_code": "VI",
         "country_flag": "🇻🇮",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Chad",
         "country_code": "TD",
         "country_flag": "🇹🇩",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Lesotho",
         "country_code": "LS",
         "country_flag": "🇱🇸",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Gambia",
         "country_code": "GM",
         "country_flag": "🇬🇲",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Montenegro",
         "country_code": "ME",
         "country_flag": "🇲🇪",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Liberia",
         "country_code": "LR",
         "country_flag": "🇱🇷",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Brunei Darussalam",
         "country_code": "BN",
         "country_flag": "🇧🇳",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Mayotte",
         "country_code": "YT",
         "country_flag": "🇾🇹",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Suriname",
         "country_code": "SR",
         "country_flag": "🇸🇷",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Burundi",
         "country_code": "BI",
         "country_flag": "🇧🇮",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Bhutan",
         "country_code": "BT",
         "country_flag": "🇧🇹",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Cape Verde",
         "country_code": "CV",
         "country_flag": "🇨🇻",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Djibouti",
         "country_code": "DJ",
         "country_flag": "🇩🇯",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "South Sudan",
         "country_code": "SS",
         "country_flag": "🇸🇸",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Saint Lucia",
         "country_code": "LC",
         "country_flag": "🇱🇨",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "French Polynesia",
         "country_code": "PF",
         "country_flag": "🇵🇫",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Fiji",
         "country_code": "FJ",
         "country_flag": "🇫🇯",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Belize",
         "country_code": "BZ",
         "country_flag": "🇧🇿",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Cayman Islands",
         "country_code": "KY",
         "country_flag": "🇰🇾",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Equatorial Guinea",
         "country_code": "GQ",
         "country_flag": "🇬🇶",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Central African Republic",
         "country_code": "CF",
         "country_flag": "🇨🇫",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Bermuda",
         "country_code": "BM",
         "country_flag": "🇧🇲",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Aruba",
         "country_code": "AW",
         "country_flag": "🇦🇼",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Saint Vincent and the Grenadines",
         "country_code": "VC",
         "country_flag": "🇻🇨",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Samoa",
         "country_code": "WS",
         "country_flag": "🇼🇸",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Saint Kitts and Nevis",
         "country_code": "KN",
         "country_flag": "🇰🇳",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Greenland",
         "country_code": "GL",
         "country_flag": "🇬🇱",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Dominica",
         "country_code": "DM",
         "country_flag": "🇩🇲",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Antigua and Barbuda",
         "country_code": "AG",
         "country_flag": "🇦🇬",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Comoros",
         "country_code": "KM",
         "country_flag": "🇰🇲",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Curacao",
         "country_code": "CW",
         "country_flag": "🇨🇼",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Guinea-Bissau",
         "country_code": "GW",
         "country_flag": "🇬🇼",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Swaziland",
         "country_code": "SZ",
         "country_flag": "🇸🇿",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Andorra",
         "country_code": "AD",
         "country_flag": "🇦🇩",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Solomon Islands",
         "country_code": "SB",
         "country_flag": "🇸🇧",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Seychelles",
         "country_code": "SC",
         "country_flag": "🇸🇨",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Turks and Caicos Islands",
         "country_code": "TC",
         "country_flag": "🇹🇨",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Grenada",
         "country_code": "GD",
         "country_flag": "🇬🇩",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Montserrat",
         "country_code": "MS",
         "country_flag": "🇲🇸",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Gibraltar",
         "country_code": "GI",
         "country_flag": "🇬🇮",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Sint Maarten",
         "country_code": "SX",
         "country_flag": "🇸🇽",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "American Samoa",
         "country_code": "AS",
         "country_flag": "🇦🇸",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Northern Mariana Islands",
         "country_code": "MP",
         "country_flag": "🇲🇵",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "British Virgin Islands",
         "country_code": "VG",
         "country_flag": "🇻🇬",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Faroe Islands",
         "country_code": "FO",
         "country_flag": "🇫🇴",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Tonga",
         "country_code": "TO",
         "country_flag": "🇹🇴",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Liechtenstein",
         "country_code": "LI",
         "country_flag": "🇱🇮",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Vanuatu",
         "country_code": "VU",
         "country_flag": "🇻🇺",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Anguilla",
         "country_code": "AI",
         "country_flag": "🇦🇮",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Bonaire, Sabo & St. Eustacius",
         "country_code": "BQ",
         "country_flag": "🇧🇶",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Falkland Islands",
         "country_code": "FK",
         "country_flag": "🇫🇰",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Palau",
         "country_code": "PW",
         "country_flag": "🇵🇼",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Saint Pierre and Miquelon",
         "country_code": "PM",
         "country_flag": "🇵🇲",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Kiribati",
         "country_code": "KI",
         "country_flag": "🇰🇮",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Cook Islands",
         "country_code": "CK",
         "country_flag": "🇨🇰",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Norfolk Island",
         "country_code": "NF",
         "country_flag": "🇳🇫",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Tuvalu",
         "country_code": "TV",
         "country_flag": "🇹🇻",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Sao Tome and Principe",
         "country_code": "ST",
         "country_flag": "🇸🇹",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Micronesia",
         "country_code": "FM",
         "country_flag": "🇫🇲",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Marshall Islands",
         "country_code": "MH",
         "country_flag": "🇲🇭",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Wallis and Futuna",
         "country_code": "WF",
         "country_flag": "🇼🇫",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Saint Helena",
         "country_code": "SH",
         "country_flag": "🇸🇭",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Tokelau",
         "country_code": "TK",
         "country_flag": "🇹🇰",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Diego Garcia",
         "country_code": "DG",
         "country_flag": "🇩🇬",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Nauru",
         "country_code": "NR",
         "country_flag": "🇳🇷",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "San Marino",
         "country_code": "SM",
         "country_flag": "🇸🇲",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Ascension",
         "country_code": "AC",
         "country_flag": "🇦🇨",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Niue",
         "country_code": "NU",
         "country_flag": "🇳🇺",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       },
       {
         "country": "Vatican City State",
         "country_code": "VA",
         "country_flag": "🇻🇦",
-        "phone_ID_standard_pricing": 0.01,
-        "contact": 0.1,
+        "phone_ID_standard_pricing": 0.011,
+        "contact": 0.07,
         "additional_phone_id_attributes": "Talk to Sales"
       }
     ],
