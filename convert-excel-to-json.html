@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.17.0/xlsx.full.min.js"></script>
+</head>
+<body>
+    <input type="file" id="excelFile" accept=".xlsx, .xls, .csv" />
+    <button id="convertButton">Convert to JSON</button>
+    <hr>
+    <button id="copyButton" style="display: none;">Copy JSON</button>
+    <button id="downloadButton" style="display: none;">Download JSON</button>
+    <br>
+    <div id="jsonOutput"></div>
+
+    <script>
+        document.getElementById('convertButton').addEventListener('click', function() {
+            const fileInput = document.getElementById('excelFile');
+            const jsonOutput = document.getElementById('jsonOutput');
+            const copyButton = document.getElementById('copyButton');
+            const downloadButton = document.getElementById('downloadButton');
+
+            const file = fileInput.files[0];
+
+            if (file) {
+                const reader = new FileReader();
+                reader.onload = function(e) {
+                    const data = e.target.result;
+                    const workbook = XLSX.read(data, { type: 'array' });
+                    let allSheetData = {};
+
+                    workbook.SheetNames.forEach(function(sheetName) {
+                        const jsonData = XLSX.utils.sheet_to_json(workbook.Sheets[sheetName], { raw: false, defval: null });
+
+                        // Convert "october_sms_pricing_values" and "sms_verify_pricing" to floating-point numbers
+                        const decimalData = jsonData.map(row => {
+                            if (!isNaN(row.sms_pricing)) {
+                                row.sms_pricing = parseFloat(row.sms_pricing);
+                            }
+                            if (!isNaN(row.sms_verify_pricing)) {
+                                row.sms_verify_pricing = parseFloat(row.sms_verify_pricing);
+                            }
+                            if (!isNaN(row.verify_plus_pricing)) {
+                                row.verify_plus_pricing = parseFloat(row.verify_plus_pricing);
+                            }
+                            if (!isNaN(row.phone_ID_standard_pricing)) {
+                                row.phone_ID_standard_pricing = parseFloat(row.phone_ID_standard_pricing);
+                            }
+                            if (!isNaN(row.contact_pricing)) {
+                                row.contact_pricing = parseFloat(row.contact_pricing);
+                            }
+                            if (!isNaN(row.intelligence_pricing)) {
+                                row.intelligence_pricing = parseFloat(row.intelligence_pricing);
+                            }
+                            if (!isNaN(row.toll_free_number_setup_pricing)) {
+                                row.toll_free_number_setup_pricing = parseFloat(row.toll_free_number_setup_pricing);
+                            }
+                            if (!isNaN(row.toll_free_number_recurring_pricing)) {
+                                row.toll_free_number_recurring_pricing = parseFloat(row.toll_free_number_recurring_pricing);
+                            }
+                           
+                            return row;
+                        });
+
+                        allSheetData[sheetName] = decimalData;
+                    });
+
+                    const jsonString = JSON.stringify(allSheetData, null, 2);
+                    jsonOutput.innerHTML = '<pre>' + jsonString + '</pre';
+
+                    copyButton.style.display = 'block';
+                    downloadButton.style.display = 'block';
+
+                    copyButton.addEventListener('click', function() {
+                        // Copy JSON to the clipboard
+                        const textArea = document.createElement('textarea');
+                        textArea.value = jsonString;
+                        document.body.appendChild(textArea);
+                        textArea.select();
+                        document.execCommand('copy');
+                        document.body.removeChild(textArea);
+                        alert('JSON copied to clipboard!');
+                    });
+
+                    downloadButton.addEventListener('click', function() {
+                        // Create a blob and download link for the JSON content
+                        const blob = new Blob([jsonString], { type: 'application/json' });
+                        const url = URL.createObjectURL(blob);
+                        const a = document.createElement('a');
+                        a.href = url;
+                        a.download = 'output.json';
+                        a.click();
+                        URL.revokeObjectURL(url);
+                    });
+                };
+                reader.readAsArrayBuffer(file);
+            } else {
+                alert('Please select an Excel or CSV file.');
+            }
+        });
+    </script>
+</body>
+</html>
