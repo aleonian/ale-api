@@ -7690,7 +7690,7 @@
       {
         "country": "United States",
         "country_code": "US",
-        "country_flag": "🇺🇸",
+        "country_flag": ":us:",
         "numeric_sender": {
           "label": null,
           "description": null,
@@ -7704,10 +7704,10 @@
           "link_1_url": null
         },
         "dedicated_long_codes": {
-          "label": null,
-          "description": null,
-          "link_1_cta": null,
-          "link_1_url": null
+          "label": "Dedicated long codes (DLCs)",
+          "description": "Includes 10DLCs and localized phone number formats. Supports two-way traffic.",
+          "link_1_cta": "Talk to sales",
+          "link_1_url": "https://www.telesign.com/contact-sales"
         },
         "alpha_numerics": {
           "label": null,
@@ -7729,7 +7729,7 @@
       {
         "country": "Canada",
         "country_code": "CA",
-        "country_flag": "🇨🇦",
+        "country_flag": ":flag-ca:",
         "numeric_sender": {
           "label": null,
           "description": null,
@@ -7749,10 +7749,10 @@
           "link_1_url": null
         },
         "alpha_numerics": {
-          "label": null,
-          "description": null,
-          "link_1_cta": null,
-          "link_1_url": null
+          "label": "Alpha sender IDs",
+          "description": "Up to 11 characters and can be combinations of alpha and numeric characters or only alpha characters.  For Full-service customers only. Supports one-way traffic.",
+          "link_1_cta": "Talk to sales",
+          "link_1_url": "https://www.telesign.com/contact-sales"
         },
         "toll_free_number": {
           "label": "Toll free number (TFN)",
@@ -7768,7 +7768,7 @@
       {
         "country": "United Kingdom",
         "country_code": "GB",
-        "country_flag": "🇬🇧",
+        "country_flag": ":gb:",
         "numeric_sender": {
           "label": null,
           "description": null,
@@ -7776,10 +7776,10 @@
           "link_1_url": null
         },
         "dedicated_short_codes": {
-          "label": null,
-          "description": null,
-          "link_1_cta": null,
-          "link_1_url": null
+          "label": "Dedicated short codes (DSCs)",
+          "description": "For Full-service customers only. Supports two-way traffic.",
+          "link_1_cta": "Talk to sales",
+          "link_1_url": "https://www.telesign.com/contact-sales"
         },
         "dedicated_long_codes": {
           "label": "Dedicated long code (DLC)",
@@ -7792,10 +7792,10 @@
           "link_2_url": "https://my.telesign.com/sender-id-purchase/step1"
         },
         "alpha_numerics": {
-          "label": null,
-          "description": null,
-          "link_1_cta": null,
-          "link_1_url": null
+          "label": "Alpha sender IDs",
+          "description": "Up to 11 characters and can be combinations of alpha and numeric characters or only alpha characters.  For Full-service customers only. Supports one-way traffic.",
+          "link_1_cta": "Talk to sales",
+          "link_1_url": "https://www.telesign.com/contact-sales"
         },
         "toll_free_number": {
           "label": null,
