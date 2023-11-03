@@ -7690,7 +7690,7 @@
       {
         "country": "United States",
         "country_code": "US",
-        "country_flag": ":us:",
+        "country_flag": "🇺🇸",
         "numeric_sender": {
           "label": null,
           "description": null,
@@ -7729,7 +7729,7 @@
       {
         "country": "Canada",
         "country_code": "CA",
-        "country_flag": ":flag-ca:",
+        "country_flag": "🇨🇦",
         "numeric_sender": {
           "label": null,
           "description": null,
@@ -7768,7 +7768,7 @@
       {
         "country": "United Kingdom",
         "country_code": "GB",
-        "country_flag": ":gb:",
+        "country_flag": "🇬🇧",
         "numeric_sender": {
           "label": null,
           "description": null,
