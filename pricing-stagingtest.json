@@ -7687,135 +7687,126 @@
     }
   ],
   "Numbers_and_senders": [
-    {
-      "country": "United States",
-      "country_code": "US",
-      "country_flag": "🇺🇸",
-      "numeric_sender": {
-        "label": null,
-        "description": null,
-        "link_1_cta": null,
-        "link_1_url": null
+   {
+        "country": "United States",
+        "country_code": "US",
+        "country_flag": "🇺🇸",
+        "numeric_sender": {
+          "label": null,
+          "description": null,
+          "link_1_cta": null,
+          "link_1_url": null
+        },
+        "dedicated_short_codes": {
+          "label": null,
+          "description": null,
+          "link_1_cta": null,
+          "link_1_url": null
+        },
+        "dedicated_long_codes": {
+          "label": "10-digit dedicated long code (10DLC)",
+          "description": "Use to send SMS one-time passcodes (OTPs), recurring alerts, and marketing messages. Supports two-way traffic.",
+          "link_1_cta": "Talk to sales",
+          "link_1_url": "https://www.telesign.com/contact-sales"
+        },
+        "alpha_numerics": {
+          "label": null,
+          "description": null,
+          "link_1_cta": null,
+          "link_1_url": null
+        },
+        "toll_free_number": {
+          "label": "Toll-free number (TFN)",
+          "description": "Use to send SMS one-time passcodes (OTPs), recurring alerts, and marketing messages. Supports two-way traffic.",
+          "setup_pricing": "$1.50 setup fee",
+          "recurring_pricing": "$1.50 monthly fee",
+          "link_1_cta": "Start with a trial",
+          "link_1_url": "https://portal.telesign.com/signup",
+          "link_2_cta": "Request TFN in your account",
+          "link_2_url": "https://my.telesign.com/sender-id-purchase/step1"
+        }
       },
-      "dedicated_short_codes": {
-        "label": null,
-        "description": null,
-        "link_1_cta": null,
-        "link_1_url": null
+      {
+        "country": "Canada",
+        "country_code": "CA",
+        "country_flag": "🇨🇦",
+        "numeric_sender": {
+          "label": null,
+          "description": null,
+          "link_1_cta": null,
+          "link_1_url": null
+        },
+        "dedicated_short_codes": {
+          "label": "Dedicated short code (DSC)",
+          "description": "Dedicated code that is shorter than localized phone number formats. Use to send SMS one-time passcodes (OTPs), recurring alerts, and marketing messages. For Full-service customers only. Supports two-way traffic.",
+          "link_1_cta": "Talk to sales",
+          "link_1_url": "https://www.telesign.com/contact-sales"
+        },
+        "dedicated_long_codes": {
+          "label": null,
+          "description": null,
+          "link_1_cta": null,
+          "link_1_url": null
+        },
+        "alpha_numerics": {
+          "label": null,
+          "link_1_cta": null,
+          "link_1_url": null
+        },
+        "toll_free_number": {
+          "label": "Toll-free number (TFN)",
+          "description": "Use to send SMS one-time passcodes (OTPs), recurring alerts, and marketing messages. Supports two-way traffic.",
+          "setup_pricing": "$1.50 setup fee",
+          "recurring_pricing": "$1.50 monthly fee",
+          "link_1_cta": "Start with a trial",
+          "link_1_url": "https://portal.telesign.com/signup",
+          "link_2_cta": "Request TFN in your account",
+          "link_2_url": "https://my.telesign.com/sender-id-purchase/step1"
+        }
       },
-      "dedicated_long_codes": {
-        "label": "10-digit dedicated long code (10DLC)",
-        "description": "Use to send SMS one-time passcodes (OTPs), recurring alerts, and marketing messages. Supports two-way traffic.",
-        "setup_pricing": null,
-        "recurring_pricing": null,
-        "link_1_cta": "Talk to sales",
-        "link_1_url": "https://www.telesign.com/contact-sales",
-        "link_2_cta": null,
-        "link_2_url": null
+      {
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "country_flag": "🇬🇧",
+        "numeric_sender": {
+          "label": null,
+          "description": null,
+          "link_1_cta": null,
+          "link_1_url": null
+        },
+        "dedicated_short_codes": {
+          "label": "Dedicated short code (DSC)",
+          "description": "Dedicated code that is shorter than localized phone number formats. Use to send SMS one-time passcodes (OTPs), recurring alerts, and marketing messages. For Full-service customers only. Supports two-way traffic.",
+          "link_1_cta": "Talk to sales",
+          "link_1_url": "https://www.telesign.com/contact-sales"
+        },
+        "dedicated_long_codes": {
+          "label": "Dedicated long code (DLC)",
+          "description": "Localized phone number format. Use to send SMS one-time passcodes (OTPs), recurring alerts, and marketing messages. Supports two-way traffic.",
+          "setup_pricing": "$1.00 setup fee",
+          "recurring_pricing": "$1.00 monthly fee",
+          "link_1_cta": "Start with a trial",
+          "link_1_url": "https://portal.telesign.com/signup",
+          "link_2_cta": "Request DLC in your account",
+          "link_2_url": "https://my.telesign.com/sender-id-purchase/step1"
+        },
+        "alpha_numerics": {
+          "label": null,
+          "description": null,
+          "link_1_cta": null,
+          "link_1_url": null
+        },
+        "toll_free_number": {
+          "label": null,
+          "description": null,
+          "setup_pricing": null,
+          "recurring_pricing": null,
+          "link_1_cta": null,
+          "link_1_url": null,
+          "link_2_cta": null,
+          "link_2_url": null
+        }
       },
-      "alpha_numerics": {
-        "label": null,
-        "description": null,
-        "link_1_cta": null,
-        "link_1_url": null
-      },
-      "toll_free_number": {
-        "label": "Toll-free number (TFN)",
-        "description": "Use to send SMS one-time passcodes (OTPs), recurring alerts, and marketing messages. Supports two-way traffic.",
-        "setup_pricing": "$1.50 setup fee",
-        "recurring_pricing": "$1.50 monthly fee",
-        "link_1_cta": "Start with a trial",
-        "link_1_url": "https://portal.telesign.com/signup",
-        "link_2_cta": "Request TFN in your account",
-        "link_2_url": "https://my.telesign.com/sender-id-purchase/step1"
-      }
-    },
-    {
-      "country": "Canada",
-      "country_code": "CA",
-      "country_flag": "🇨🇦",
-      "numeric_sender": {
-        "label": null,
-        "description": null,
-        "link_1_cta": null,
-        "link_1_url": null
-      },
-      "dedicated_short_codes": {
-        "label": null,
-        "description": null,
-        "link_1_cta": null,
-        "link_1_url": null
-      },
-      "dedicated_long_codes": {
-        "label": null,
-        "description": null,
-        "setup_pricing": null,
-        "recurring_pricing": null,
-        "link_1_cta": null,
-        "link_1_url": null,
-        "link_2_cta": null,
-        "link_2_url": null
-      },
-      "alpha_numerics": {
-        "label": null,
-        "description": null,
-        "link_1_cta": null,
-        "link_1_url": null
-      },
-      "toll_free_number": {
-        "label": "Toll-free number (TFN)",
-        "description": "Use to send SMS one-time passcodes (OTPs), recurring alerts, and marketing messages. Supports two-way traffic.",
-        "setup_pricing": "$1.50 setup fee",
-        "recurring_pricing": "$1.50 monthly fee",
-        "link_1_cta": "Start with a trial",
-        "link_1_url": "https://portal.telesign.com/signup",
-        "link_2_cta": "Request TFN in your account",
-        "link_2_url": "https://my.telesign.com/sender-id-purchase/step1"
-      }
-    },
-    {
-      "country": "United Kingdom",
-      "country_code": "GB",
-      "country_flag": "🇬🇧",
-      "numeric_sender": {
-        "label": null,
-        "description": null,
-        "link_1_cta": null,
-        "link_1_url": null
-      },
-      "dedicated_short_codes": {
-        "label": null,
-        "description": null,
-        "link_1_cta": null,
-        "link_1_url": null
-      },
-      "dedicated_long_codes": {
-        "label": "Dedicated long code (DLC)",
-        "description": "Localized phone number format. Use to send SMS one-time passcodes (OTPs), recurring alerts, and marketing messages. Supports two-way traffic.",
-        "setup_pricing": "1.00",
-        "recurring_pricing": "1.00",
-        "link_1_cta": "Start with a trial",
-        "link_1_url": "https://portal.telesign.com/signup",
-        "link_2_cta": "Request DLC in your account",
-        "link_2_url": "https://my.telesign.com/sender-id-purchase/step1"
-      },
-      "alpha_numerics": {
-        "label": null,
-        "description": null,
-        "link_1_cta": null,
-        "link_1_url": null
-      },
-      "toll_free_number": {
-        "label": null,
-        "description": null,
-        "setup_pricing": 0,
-        "recurring_pricing": 0,
-        "link_1_cta": null,
-        "link_1_url": null,
-        "link_2_cta": null,
-        "link_2_url": null
-      }
-    },
     {
       "country": "Germany",
       "country_code": "DE",
