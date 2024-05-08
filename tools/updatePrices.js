@@ -113,7 +113,7 @@ async function main() {
         await pushChanges(repoPath, baseBranch);
 
         console.log('Workflow completed successfully.');
-        await fsPromises.unlink(path.resolve(filprocessedFileePath));
+        await fsPromises.unlink(path.resolve(processedFile));
 
     } catch (error) {
         console.error('Error executing workflow:', error);
