@@ -56,8 +56,6 @@ async function commitChanges(repoPath, filePath, commitMessage) {
     // Change directory to the repository path
     process.chdir(repoPath);
 
-    console.log("filePath->", filePath);
-
     // Stage the changes
     execSync(`git add ${filePath}`);
 
@@ -100,19 +98,18 @@ async function main() {
         await processExcelFile(excelFile);
 
         // Modify the file in the repository
-        console.log("Modify the file in the repository");
+        console.log(chalk.yellow("Modify the file in the repository"));
         const processedFile = path.resolve("./output.json");
         await modifyFile(targetFile, processedFile);
 
         // Commit the changes to the new branch
-        console.log("Commit the changes to the new branch");
+        console.log(chalk.blue("Commit the changes to the new branch"));
         await commitChanges(repoPath, targetFile, commitMessage);
 
         // Push the changes to the repository
-        console.log("Push the changes to the new branch");
+        console.log(chalk.cyan("Push the changes to the new branch"));
         await pushChanges(repoPath, baseBranch);
-
-        console.log('Workflow completed successfully.');
+        console.log(chalk.green("Workflow completed successfully."));
         await fsPromises.unlink(path.resolve(processedFile));
 
     } catch (error) {
