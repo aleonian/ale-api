@@ -83,7 +83,6 @@ async function pushChanges(repoPath, branchName) {
         process.chdir(repoPath);
         // Push the changes to the branch
         execSync(`git push origin ${branchName} -f`);
-        successLog('Changes pushed successfully.');
     }
     catch (error) {
         errorLog("pushChanges() failed: " + error);
