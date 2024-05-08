@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@octokit/rest": "^20.1.1",
+    "dotenv": "^16.4.5"
+  },
+  "scripts": {
+    "start": "cross-env NODE_TLS_REJECT_UNAUTHORIZED=0 node updatePrices.js"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3"
+  }
+}
