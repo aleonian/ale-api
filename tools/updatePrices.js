@@ -47,7 +47,7 @@ async function modifyFile(targetFile, newContentFile) {
         errorLog(`modifyFile(): Error writing to file: ${error}`);
         return false;
     }
-    successLog(`File ${targetFile} modified successfully.`);
+    // successLog(`File ${targetFile} modified successfully.`);
     return true;
 }
 
@@ -115,38 +115,39 @@ function successLog(message) {
 async function main() {
     try {
         if (args.length < 1) {
-            console.log(chalk.red('Bro, you need to provide a filename. Aborting.'));
+            errorLog('Bro, you need to provide a filename. Aborting.');
             exitProgram();
         }
-        const excelFile = args[0];
 
+        const excelFile = args[0];
         const fileExtension = path.extname(excelFile);
 
         if (fileExtension.toLowerCase() !== '.xlsx') {
-            console.log(chalk.red('Bro, the file should have a xlsx extension. Aborting.'));
+            errorLog('Bro, the file should have a xlsx extension. Aborting.');
             exitProgram();
         }
-        successLog('We gonna process the Excel file.');
+
+        successLog('+ Gonna process the Excel file.');
         const excelProcessResult = await processExcelFile(excelFile);
         if (!excelProcessResult) {
             errorLog("processExcelFile() failed :(");
             exitProgram();
         }
         // Modify the file in the repository
-        console.log(chalk.yellow("Gonna modify the file in the repository"));
+        console.log(chalk.yellow("+ Gonna modify the target file in the repository"));
         const processedFile = path.resolve("./output.json");
         const modifyResult = await modifyFile(targetFile, processedFile);
         if (!modifyResult) {
             exitProgram();
         }
         // Commit the changes to the new branch
-        console.log(chalk.blue("Commit the changes to the new branch"));
+        console.log(chalk.blue("+ Gonna commit the changes to the new branch"));
         let commitResult = await commitChanges(repoPath, targetFile, commitMessage);
         if (!commitResult) {
             exitProgram();
         }
         // Push the changes to the repository
-        console.log(chalk.cyan("Push the changes to the new branch"));
+        console.log(chalk.cyan("+ Gonna push the changes to the new branch"));
         const pushResult = await pushChanges(repoPath, baseBranch);
         if (!pushResult) {
             exitProgram();
