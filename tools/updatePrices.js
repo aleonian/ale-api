@@ -36,44 +36,79 @@ async function modifyFile(targetFile, newContentFile) {
     try {
         newContent = await fsPromises.readFile(newContentFile, 'utf8');
     } catch (error) {
-        console.error(`Error reading file: ${error}`);
-        return;
+        errorLog(`modifyFile(): Error reading file: ${error}`);
+        return false;
     }
 
     // Write the modified content back to the file
     try {
         await fsPromises.writeFile(targetFile, newContent, 'utf8');
     } catch (error) {
-        console.error(`Error writing to file: ${error}`);
-        return;
+        errorLog(`modifyFile(): Error writing to file: ${error}`);
+        return false;
     }
-    console.log(`File ${targetFile} modified successfully.`);
+    successLog(`File ${targetFile} modified successfully.`);
+    return true;
 }
 
 async function commitChanges(repoPath, filePath, commitMessage) {
     // Change directory to the repository path
     process.chdir(repoPath);
+    let allGood = true;
 
     // Stage the changes
-    execSync(`git add ${filePath}`);
+    try {
+        execSync(`git add ${filePath}`);
+    }
+    catch (error) {
+        allGood = false;
+        errorLog('git add command failed with error:', error);
+    }
 
     // Commit the changes
-    execSync(`git commit -m "${commitMessage}"`);
+    try {
+        execSync(`git commit -m "${commitMessage}"`);
+    }
+    catch (error) {
+        allGood = false;
+        errorLog('git commit -m command failed with error:' + error);
+        errorLog("Were there any changes to commit?")
+    }
 
-    console.log('Changes committed successfully.');
+    if (allGood)
+        console.log(chalk.yellow("Changes committed successfully."));
+    else {
+        console.log(chalk.red("Changes NOT committed :("));
+    }
+    return allGood;
 }
 
 async function pushChanges(repoPath, branchName) {
     // Change directory to the repository path
-    process.chdir(repoPath);
-
-    // Push the changes to the branch
-    execSync(`git push origin ${branchName} -f`);
-
-    console.log('Changes pushed successfully.');
+    let allGood = true;
+    try {
+        process.chdir(repoPath);
+        // Push the changes to the branch
+        execSync(`git push origin ${branchName} -f`);
+        successLog('Changes pushed successfully.');
+    }
+    catch (error) {
+        errorLog("pushChanges() failed: " + error);
+        allGood = false;
+    }
+    return allGood;
 }
+
 function exitProgram() {
     process.exit();
+}
+
+function errorLog(message) {
+    console.log(chalk.red(message));
+}
+
+function successLog(message) {
+    console.log(chalk.green(message));
 }
 
 // Usage example
@@ -91,23 +126,32 @@ async function main() {
             console.log(chalk.red('Bro, the file should have a xlsx extension. Aborting.'));
             exitProgram();
         }
-        console.log(chalk.green('We gonna process the Excel file.'));
-
-        await processExcelFile(excelFile);
-
+        successLog('We gonna process the Excel file.');
+        const excelProcessResult = await processExcelFile(excelFile);
+        if (!excelProcessResult) {
+            errorLog("processExcelFile() failed :(");
+            exitProgram();
+        }
         // Modify the file in the repository
-        console.log(chalk.yellow("Modify the file in the repository"));
+        console.log(chalk.yellow("Gonna modify the file in the repository"));
         const processedFile = path.resolve("./output.json");
-        await modifyFile(targetFile, processedFile);
-
+        const modifyResult = await modifyFile(targetFile, processedFile);
+        if (!modifyResult) {
+            exitProgram();
+        }
         // Commit the changes to the new branch
         console.log(chalk.blue("Commit the changes to the new branch"));
-        await commitChanges(repoPath, targetFile, commitMessage);
-
+        let commitResult = await commitChanges(repoPath, targetFile, commitMessage);
+        if (!commitResult) {
+            exitProgram();
+        }
         // Push the changes to the repository
         console.log(chalk.cyan("Push the changes to the new branch"));
-        await pushChanges(repoPath, baseBranch);
-        console.log(chalk.green("Workflow completed successfully."));
+        const pushResult = await pushChanges(repoPath, baseBranch);
+        if (!pushResult) {
+            exitProgram();
+        }
+        successLog("Workflow completed successfully.")
         await fsPromises.unlink(path.resolve(processedFile));
 
     } catch (error) {
@@ -146,8 +190,10 @@ async function processExcelFile(excelFilePath) {
 
         // Output the JSON string to a file
         await fsPromises.writeFile('output.json', jsonString, 'utf8');
+        return true;
     } catch (error) {
         console.error('Error processing the Excel file:', error);
+        return false;
     }
 }
 
