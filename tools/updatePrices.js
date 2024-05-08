@@ -1,12 +1,8 @@
-// require("dotenv").config();
 import dotenv from 'dotenv';
-dotenv.config();// const { execSync } = require('child_process');
+dotenv.config();
 import { execSync } from "child_process";
-// const XLSX = require('xlsx');
 import XLSX from 'xlsx';
-// const chalk = require('chalk');
 import chalk from "chalk";
-// const fs = require("fs");
 import { promises as fsPromises } from 'fs';// const path = require("path");
 import path from "path";
 const args = process.argv.slice(2);
@@ -47,7 +43,6 @@ async function modifyFile(targetFile, newContentFile) {
         errorLog(`modifyFile(): Error writing to file: ${error}`);
         return false;
     }
-    // successLog(`File ${targetFile} modified successfully.`);
     return true;
 }
 
@@ -72,13 +67,11 @@ async function commitChanges(repoPath, filePath, commitMessage) {
     catch (error) {
         allGood = false;
         errorLog('git commit -m command failed with error:' + error);
-        errorLog("Were there any changes to commit?")
+        warningLog("Were there any changes to commit?");
     }
 
-    if (allGood)
-        console.log(chalk.yellow("Changes committed successfully."));
-    else {
-        console.log(chalk.red("Changes NOT committed :("));
+    if (allGood) {
+        yellowLog("Changes committed successfully.");
     }
     return allGood;
 }
@@ -107,10 +100,17 @@ function errorLog(message) {
     console.log(chalk.red(message));
 }
 
+function warningLog(message) {
+    console.log(chalk.bgRed(message));
+}
+
 function successLog(message) {
     console.log(chalk.green(message));
 }
 
+function yellowLog(message) {
+    console.log(chalk.yellow(message));
+}
 // Usage example
 async function main() {
     try {
@@ -127,33 +127,40 @@ async function main() {
             exitProgram();
         }
 
-        successLog('+ Gonna process the Excel file.');
         const excelProcessResult = await processExcelFile(excelFile);
         if (!excelProcessResult) {
             errorLog("processExcelFile() failed :(");
             exitProgram();
         }
+        successLog('+ Processed Excel file.');
+
         // Modify the file in the repository
-        console.log(chalk.yellow("+ Gonna modify the target file in the repository"));
         const processedFile = path.resolve("./output.json");
         const modifyResult = await modifyFile(targetFile, processedFile);
         if (!modifyResult) {
+            errorLog('+ Could NOT modify the target file in the repository');
             exitProgram();
         }
+        yellowLog("+ Modified the target file in the repository");
+
         // Commit the changes to the new branch
-        console.log(chalk.blue("+ Gonna commit the changes to the new branch"));
         let commitResult = await commitChanges(repoPath, targetFile, commitMessage);
         if (!commitResult) {
+            errorLog('+ Could not commit the changes to the new branch');
             exitProgram();
         }
+        console.log(chalk.blue("+ Committed the changes to the new branch"));
+
         // Push the changes to the repository
-        console.log(chalk.cyan("+ Gonna push the changes to the new branch"));
         const pushResult = await pushChanges(repoPath, baseBranch);
         if (!pushResult) {
+            errorLog('+ Could not push the changes to the new branch');
             exitProgram();
         }
-        successLog("Workflow completed successfully.")
+        console.log(chalk.cyan("+ Pushed the changes to the new branch"));
+
         await fsPromises.unlink(path.resolve(processedFile));
+        successLog("Workflow completed successfully.");
 
     } catch (error) {
         console.error('Error executing workflow:', error);
