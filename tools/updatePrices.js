@@ -31,8 +31,6 @@ console.log("repoPath->", repoPath);
 
 async function modifyFile(targetFile, newContentFile) {
 
-    console.log("targetFile->", targetFile);
-    console.log("newContentFile->", newContentFile);
     // Read the existing file content
     let newContent;
     try {
